@@ -40,6 +40,5 @@ Usage
 
 To run the tests you need to do the following:
 
-1. Ensure you are using a compatible ruby version (>= 2.3.0)
-2. `bundle install`
-3. `bin/rspec`
+1. `bundle install`
+2. `bin/rspec`
